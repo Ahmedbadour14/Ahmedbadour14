@@ -3,10 +3,10 @@
   <h3>Data Analyst & Analytics Engineer | Turning Raw Data into Actionable Business Insights</h3>
   
   <p>
-    <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/ahmed-badour-/)" target="_blank">
+    <a href="https://www.linkedin.com/in/ahmed-badour-/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="[https://www.upwork.com/freelancers/YOUR-UPWORK-ID](https://www.upwork.com/freelancers/~01b50291d5eeda98dd?mp_source=share)" target="_blank">
+    <a href="https://www.upwork.com/freelancers/~01b50291d5eeda98dd" target="_blank">
       <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
     </a>
     <a href="mailto:ahmed.badour2005@gmail.com">
