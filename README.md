@@ -1,66 +1,34 @@
-<div align="center">
-  <h1>Hi there, I'm Ahmed Badour 👋</h1>
-  <h3>Data Analyst & Analytics Engineer | Turning Raw Data into Actionable Business Insights</h3>
-  
-  <p>
-    <a href="https://www.linkedin.com/in/ahmed-badour-/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://www.upwork.com/freelancers/~01b50291d5eeda98dd" target="_blank">
-      <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
-    </a>
-    <a href="mailto:ahmed.badour2005@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-  </p>
-</div>
+# Ahmed Badour
+### Data Analyst | Business Intelligence
 
----
+I am a Computer Science student focused on data analysis and business intelligence. My portfolio includes Power BI dashboards, Tableau transaction analysis, and SQL projects for data preparation, modeling, and reporting.
 
-### 👨‍💻 About Me
-I am a **Data Analyst & Analytics Engineer** and a final-year Computer Science student at Tanta University. I specialize in designing scalable data warehouses, building automated ETL pipelines, and creating interactive BI dashboards that help businesses make data-driven decisions.
+I am interested in Data Analyst and BI internships, as well as freelance dashboard and reporting projects. Data engineering is a parallel learning track that supports my analytics work.
 
-- 🔭 **Currently working on:** End-to-end Retail Analytics in Power BI & RFM Customer Segmentation.
-- 🏗️ **Core Focus:** Data Warehousing (Medallion Architecture), Star Schema Modeling, SQL Optimization, and Business Intelligence.
-- 🤝 **Open to:** Freelance Analytics Projects, Data Engineering / BI Roles, and Internships.
+## Selected projects
 
----
+### [Retail Sales & Customer Analytics](https://github.com/Ahmedbadour14/Retail-Sales-Performance-PowerBI)
+**Power BI · DAX · Excel · Star schema**  
+A multi-page report covering sales performance, customer segments, product profitability, and returns. Includes the Power BI file, source spreadsheets, DAX documentation, and dashboard screenshots.
 
-### 🛠️ Tech Stack & Tools
+### [SQL Data Warehouse](https://github.com/Ahmedbadour14/sql-data-warehouse-project)
+**SQL Server · T-SQL · Stored procedures · Data modeling**  
+A Bronze, Silver, and Gold warehouse project that loads ERP and CRM CSV files, applies cleaning rules, and creates reporting views. Includes SQL quality-check scripts.
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Databases & SQL** | Microsoft SQL Server (T-SQL), MySQL, PostgreSQL, Window Functions, CTEs, Stored Procedures |
-| **Data Modeling & ETL** | Medallion Architecture (Bronze/Silver/Gold), Star Schema, Power Query, Automated ETL Pipelines |
-| **BI & Visualization** | Power BI (DAX, Data Modeling, UI/UX), Tableau, Microsoft Excel (Power Pivot, VBA) |
-| **Programming & ML** | Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Streamlit), C++ |
-| **Dev & Workflow** | Git, GitHub, SSMS, DAX Studio, VS Code, Jupyter Notebook |
+### [Financial Transaction & Fraud Analytics](https://github.com/Ahmedbadour14/financial-fraud-transaction-analytics)
+**Tableau · Transaction analysis · Dashboard design**  
+An analytical workbook exploring transaction volumes, fraud-labeled records, and channel behavior. The repository links to the Tableau workbook and dashboard assets.
 
----
+### [SQL Data Analytics](https://github.com/Ahmedbadour14/sql-data-analytics-project)
+**SQL Server · CTEs · Window functions · Reporting**  
+Sales-data exploration, time-based analysis, segmentation, and reusable customer and product reports.
 
-### 🚀 Featured Projects
+## Tools used in these projects
 
-#### 1. 🏛️ End-to-End SQL Data Warehouse
-- **Tech:** SQL Server, T-SQL, ETL Stored Procedures, Star Schema
-- **Highlights:** Architected a modern data warehouse implementing **Medallion Architecture** (Bronze, Silver, and Gold layers) to integrate, cleanse, and model multi-source ERP and CRM data for analytical reporting.
+- **Analysis and reporting:** SQL, Power BI, Tableau, Excel
+- **Modeling and preparation:** Power Query, DAX, star schemas, T-SQL stored procedures
+- **Workflow:** SQL Server Management Studio, Git, GitHub
 
-#### 2. 📊 Retail Sales & Customer RFM Analytics Dashboard
-- **Tech:** Power BI, DAX, Star Schema, Excel
-- **Highlights:** Migrated and scaled an enterprise retail dataset into an interactive multi-page Power BI report featuring executive KPIs, MoM growth tracking, product profitability scatter analysis, and **RFM customer segmentation**.
+## Contact
 
-#### 3. 🛡️ Bank Fraud Detection & Analytical Model
-- **Tech:** Python (Scikit-learn, Streamlit), Excel Power Pivot, DAX
-- **Highlights:** Built a relational Star Schema data model with surrogate keys to track fraud patterns, paired with a real-time machine learning web application deployed via Streamlit.
-
-#### 4. 🚆 UK Train Rides Operational & Revenue Analytics
-- **Tech:** Microsoft Excel, Power Query, Power Pivot, DAX
-- **Highlights:** Analyzed railway ticket transactions to uncover peak passenger traffic, revenue drivers, and root causes of operational delays.
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ahmedbadour14&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedbadour14&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+[LinkedIn](https://www.linkedin.com/in/ahmed-badour-/) · [Email](mailto:ahmed.badour2005@gmail.com)
